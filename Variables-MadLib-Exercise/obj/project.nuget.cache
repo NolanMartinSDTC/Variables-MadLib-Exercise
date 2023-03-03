@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ld7I6t0r8CFuMZAphS3Kl+oUfANsd+9UaNZuytXhOrH/R1zBl3Vu0TQ5+te55siT+7/OS6w8CFNY2KeXEJME2Q==",
+  "dgSpecHash": "xvLi+zHdFPwuuWDRUpWkh64nV6VWU9R3zhpRT6GEc6CQkF5sNq4iYH4HaSQEAXshIlpJvdzLXtrw5JJLRhczKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brand\\Desktop\\repos\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise\\Variables-MadLib-Exercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/nolanmartin/Desktop/repos/Variables-MadLib-Exercise/Variables-MadLib-Exercise/Variables-MadLib-Exercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/nolanmartin/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/nolanmartin/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/nolanmartin/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
